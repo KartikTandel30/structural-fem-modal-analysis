@@ -1,0 +1,6 @@
+# Package names only. Original solver environment versions have not been recorded.
+# Pin versions after reproducing the solver and verifying compatibility.
+numpy
+pandas
+scipy
+matplotlib
