@@ -152,6 +152,8 @@ This project records a finite-element implementation built around CSV-driven mod
 
 Developed as part of a computational mechanics / numerical simulation portfolio.
 
-**Kartik Suresh Tandel**
-M.Sc. Computational Materials Science
+- Used AI-assisted coding to develop and debug the Python prototype for finite element modal analysis.
+
+**Kartik Suresh Tandel**  
+M.Sc. Computational Materials Science  
 TU Bergakademie Freiberg
